@@ -27,7 +27,7 @@ DuckDuckGo Search – Web research tool
 
 dotenv – Environment variable management
 
-3️Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
  Add API Key
